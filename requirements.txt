@@ -1,4 +1,4 @@
 urllib3
 django
-python-newsapi
+python-newsapi==1.0.2
 requests==2.26.0
