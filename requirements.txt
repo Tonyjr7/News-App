@@ -1,3 +1,0 @@
-python-newsapi
-django
-requests
