@@ -1,0 +1,4 @@
+urllib3
+django
+python-newsapi
+requests
