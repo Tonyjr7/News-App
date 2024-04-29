@@ -1,5 +1,8 @@
 urllib3
 django
-python-newsapi==1.0.2
-requests==2.12.5
+python-newsapi
+requests
 gunicorn
+pytz
+whitenoise
+asgiref
