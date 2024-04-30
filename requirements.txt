@@ -6,3 +6,4 @@ gunicorn
 pytz
 whitenoise
 asgiref
+python==3.7
