@@ -19,12 +19,21 @@
             text-align: center;
             width: 100%;
         }
+        @keyframes blink{
+            10%{
+                color: red;
+            }
+
+        #h1{
+            animation-name: blink;
+            animation-iteration: infinite;
+        }
     </style>
 </head>
 <body>
     <section class="section">
         <div class="container">
-            <h1 class="title has-text-centered">Latest News</h1>
+            <h1 id="h1" class="title has-text-centered">Latest News</h1>
             <p class="subtitle has-text-centered">Stay updated with the latest news from around the world.</p>
             
             <form method="get">
