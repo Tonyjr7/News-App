@@ -1,7 +1,7 @@
 urllib3
 django
 python-newsapi
-requests
+requests==2.12.5
 gunicorn
 pytz
 whitenoise
