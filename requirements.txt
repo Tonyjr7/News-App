@@ -1,9 +1,10 @@
-urllib3
-django
-python-newsapi
-requests==2.12.5
+urllib3==1.26.7
+django==5.0.4
+newsapi_python==0.2.7
+requests==2.26.0
 gunicorn
-pytz
+pytz==2024.1
 whitenoise
-asgiref
-python_version == 3.7.*
+asgiref==3.8.1
+python_version == 3.11.4.*
+sqlparse==0.5.0
