@@ -25,9 +25,7 @@ SECRET_KEY = 'django-insecure-)@ce!ef6+29ql^y-fq-8c8u&65pqh2lurfi^c0q(&^lt^h=hr2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['wavy-news-7e4dada83991.herokuapp.com',
-                '.vercel.app', 'your-custom-domain.com'
-                ]
+ALLOWED_HOSTS = ['.vercel.app', 'news-app-psi-gilt.vercel.app']
 
 
 # Application definition
